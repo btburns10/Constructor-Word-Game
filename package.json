@@ -1,0 +1,25 @@
+{
+  "name": "constructor-word-game",
+  "version": "1.0.0",
+  "description": "Hangman game that uses js constructor based logic to collect user's guesses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btburns10/Constructor-Word-Game.git"
+  },
+  "keywords": [
+    "hangman"
+  ],
+  "author": "Brendan Burns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/btburns10/Constructor-Word-Game/issues"
+  },
+  "homepage": "https://github.com/btburns10/Constructor-Word-Game#readme",
+  "dependencies": {
+    "inquirer": "^6.1.0"
+  }
+}
